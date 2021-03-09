@@ -33,7 +33,7 @@ int main()
                 p='e';
                 break;
             default:
-                cout<<"enter right choice\n";
+                cout<<"Enter right choice:\n";
         };
     }while(p!='e');
 
