@@ -2,9 +2,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
-
-
 class Customer{
     public:
     int acc_no;
